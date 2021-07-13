@@ -1,6 +1,6 @@
 # draw-paint-vite
 
-fork by [w-xuefeng/drawing](https://github.com/w-xuefeng/drawing)
+fork by [zhoushuozh/drawingborad](https://github.com/zhoushuozh/drawingborad)
 
 [preview](https://www.ivhik.cn/draw-paint-vite/)
 
