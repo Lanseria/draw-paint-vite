@@ -4,6 +4,7 @@ import html from "vite-plugin-html";
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/draw-paint-vite/",
   build: {
     outDir: "docs",
   },

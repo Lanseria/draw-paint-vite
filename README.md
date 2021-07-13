@@ -2,6 +2,8 @@
 
 fork by [w-xuefeng/drawing](https://github.com/w-xuefeng/drawing)
 
+[preview](https://www.ivhik.cn/draw-paint-vite/)
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur). Make sure to enable `vetur.experimental.templateInterpolationService` in settings!
